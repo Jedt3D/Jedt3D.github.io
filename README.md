@@ -1,6 +1,6 @@
-# skoodeskill.github.io
+# Jedt3D.github.io
 
-A Jekyll Website for my company blog.
+A Jekyll Website for my personal blog.
 
 Looking forward to see some articles.
 
